@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Network Security, Python, CompTIA**
 
-💬 Ask me about **Python, SQL, Bash, Postman, Cloud, ATS... or anything [here](https://github.com/william-smith2024/MyFirstRepo)**
+💬 Ask me about **Python, SQL, Bash, Postman, Cloud, AWS, ...ATS... or anything [here](https://github.com/william-smith2024/MyFirstRepo)**
 
 ⚡ Fun fact **Avocados are actually fruits, not vegetables.**
 
